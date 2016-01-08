@@ -1,0 +1,24 @@
+PODS:
+  - Emoji (0.0.1):
+    - STRegex (< 1.0.0, >= 0.0.0)
+  - STRegex (0.3.0)
+
+DEPENDENCIES:
+  - Emoji (from `https://github.com/neonichu/electronic-moji.git`)
+
+EXTERNAL SOURCES:
+  Emoji:
+    :git: https://github.com/neonichu/electronic-moji.git
+
+CHECKOUT OPTIONS:
+  Emoji:
+    :commit: 5c077a42e2244177fdfbddd7dff975e51f199fbe
+    :git: https://github.com/neonichu/electronic-moji.git
+
+SPEC CHECKSUMS:
+  Emoji: 4eaaad730efccc3dcf53547a8e0c60408a067ebc
+  STRegex: 5e12f6376da1ec945689fb693cf18dcf663b7190
+
+PODFILE CHECKSUM: f17e9051539b2849c7625b994788a5d63af8abef
+
+COCOAPODS: 1.0.0.beta.2
